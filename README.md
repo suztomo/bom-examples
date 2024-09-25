@@ -1,3 +1,3 @@
 # bom-examples
 
-Demonstration of how Maven BOM works
+Demonstration of how Maven BOM works.
